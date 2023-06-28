@@ -1,10 +1,10 @@
 # MSP430F5529 SSD1306 OLED Display Irrigation System
 
-### This project demonstrates an irrigation system using the MSP430F5529 microcontroller and the SSD1306 ### OLED display. The system connects two MSP430 microcontrollers via the I2C bus, with the master 
-### transmitting data to the slave.
-### Hardware Configuration
+### This project demonstrates an irrigation system using the MSP430F5529 microcontroller and the SSD1306 OLED display. The system connects two MSP430 microcontrollers via the I2C bus, with the master  transmitting data to the slave.
 
-## The hardware setup for this project is as follows:
+## Hardware Configuration
+
+### The hardware setup for this project is as follows:
 
     -MSP430F5529 master microcontroller
     -SSD1306 OLED display
